@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bortolanim\\Desktop\\ScritturaDB\\ScritturaDB.csproj": {}
+    "C:\\Users\\bortolanim\\Desktop\\Esercitazione2IOT\\Esercitazione2IOT-MQTT\\ScritturaDB\\ScritturaDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bortolanim\\Desktop\\ScritturaDB\\ScritturaDB.csproj": {
+    "C:\\Users\\bortolanim\\Desktop\\Esercitazione2IOT\\Esercitazione2IOT-MQTT\\ScritturaDB\\ScritturaDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bortolanim\\Desktop\\ScritturaDB\\ScritturaDB.csproj",
+        "projectUniqueName": "C:\\Users\\bortolanim\\Desktop\\Esercitazione2IOT\\Esercitazione2IOT-MQTT\\ScritturaDB\\ScritturaDB.csproj",
         "projectName": "ScritturaDB",
-        "projectPath": "C:\\Users\\bortolanim\\Desktop\\ScritturaDB\\ScritturaDB.csproj",
+        "projectPath": "C:\\Users\\bortolanim\\Desktop\\Esercitazione2IOT\\Esercitazione2IOT-MQTT\\ScritturaDB\\ScritturaDB.csproj",
         "packagesPath": "C:\\Users\\bortolanim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bortolanim\\Desktop\\ScritturaDB\\obj\\",
+        "outputPath": "C:\\Users\\bortolanim\\Desktop\\Esercitazione2IOT\\Esercitazione2IOT-MQTT\\ScritturaDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bortolanim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScritturaDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+960d9bd533f6f9df51fc7e54ae11acd6c63d3b0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScritturaDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScritturaDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
